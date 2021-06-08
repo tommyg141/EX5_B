@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/clang++-9 -G "CodeBlocks - Unix Makefiles" //wsl$/Ubuntu/home/tommyg141/binarytree-b
-bash: line 0: cd: //wsl$/Ubuntu/home/tommyg141/binarytree-b/cmake-build-debug: Permission denied
-CMake Error: The source directory "//wsl$/Ubuntu/home/tommyg141/binarytree-b" does not exist.
-Specify --help for usage, or press the help button on the CMake GUI.
